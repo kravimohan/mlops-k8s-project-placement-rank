@@ -1,6 +1,6 @@
 FROM python:3.8.12-slim
 
-MAINTAINER sarath kumar sarath@psitrontech.com
+MAINTAINER Ravi Mohan ravimohan.kuruba@gmail.com
 
 RUN pip install pipenv
 
